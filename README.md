@@ -36,4 +36,3 @@ Clone the repo, open it in Android Studio and build the app.
 chmod +x gradlew
 ./gradlew assembleDebug
 ```
-#test
